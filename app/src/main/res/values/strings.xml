@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Mygame</string>
+    <string name="artcle"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;温馨提示：欢迎您进入本游戏！本游戏不需扣取任何费用和流量
+。如果你想开始游戏之旅请勾选“我同意”复选框，方可进入游戏。</string>
+    <string name="width_1">1像素</string>
+    <string name="width_2">5像素</string>
+    <string name="width_3">10像素</string>
+    <string name="width_4">15像素</string>
+    <string name="width_5">20像素</string>
+
+    <string name="color_red">红色</string>
+    <string name="color_green">绿色</string>
+    <string name="color_blue">蓝色</string>
+    <string name="color_gray">灰色</string>
+    <string name="color_yellow">黄色</string>
+
+    <string name="color">画笔颜色</string>
+    <string name="width">画笔宽度</string>
+    <string name="clear">擦除绘画</string>
+    <string name="save">保存绘画</string>
+    <string name="palyMusic">播放音乐</string>
+    <string name="pauseMusic">暂停音乐</string>
+</resources>
