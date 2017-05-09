@@ -18,9 +18,7 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.util.Date;
 
-/**
- * Created by msi on 2016/5/17.
- */
+
 public class DrawView extends View {
     private int view_width = 0;	//屏幕的宽度
     private int view_height = 0;	//屏幕的高度
